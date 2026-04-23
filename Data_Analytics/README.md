@@ -1,0 +1,1 @@
+# Data Analytics Projects\nThis folder contains all data analytics and exploratory data analysis (EDA) projects.
