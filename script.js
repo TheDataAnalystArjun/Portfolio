@@ -67,7 +67,7 @@ const copyEmail = document.getElementById("copyEmail");
 const answers = [
   {
     keys: ["sql", "query", "cte", "window"],
-    answer: "Arjun uses SQL concepts for analysis, trends, segmentation, and business reporting. His portfolio also shows Python EDA, HR analytics, and ML/NLP projects."
+    answer: "Arjun uses SQL for commercial card spend analysis, CTEs, window functions, segmentation, trend analysis, and business reporting. His SQL project identifies spend patterns, high-value customers, engagement drop-offs, cross-sell, retention, and optimization opportunities."
   },
   {
     keys: ["python", "machine", "model", "fraud", "clv"],
@@ -79,7 +79,7 @@ const answers = [
   },
   {
     keys: ["project", "portfolio", "github", "case study"],
-    answer: "Arjun's portfolio projects include Sales EDA, HR Analytics Dashboard, Car Insurance Fraud Detection, Movie Reviews Sentiment Classification, and Spam Mail Classification."
+    answer: "Arjun's portfolio projects include Commercial Card Spend and Engagement Analysis, Sales EDA, HR Analytics Dashboard, Car Insurance Fraud Detection, Movie Reviews Sentiment Classification, and Spam Mail Classification."
   },
   {
     keys: ["job", "role", "fit", "hire"],
