@@ -6,6 +6,7 @@ I am transitioning into data analytics from a STEM and computer science educatio
 Portfolio: https://thedataanalystarjun.github.io/Portfolio/
 LinkedIn: https://www.linkedin.com/in/arjun-rathod-5b5b97184
 Email: rathodarjun878@gmail.com
+
 Target Roles
 Data Analyst
 Junior Data Analyst
@@ -16,6 +17,7 @@ Business Analyst - Analytics
 Operations Analyst
 HR Analytics Analyst
 AI Data Analyst / Data Quality Analyst
+
 Core Skills
 Area	Skills
 SQL	CTEs, window functions, joins, trend analysis, cohort analysis, customer segmentation
@@ -23,6 +25,7 @@ Python	Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, data cleaning, feature 
 BI and dashboards	Power BI, Tableau, Looker Studio, Excel, Google Sheets, KPI dashboards
 Analytics	Sales analytics, HR analytics, reporting automation, fraud detection, NLP classification
 Tools	BigQuery, Jupyter Notebook, Google Apps Script, GitHub
+
 Featured Projects
 1. Commercial Card Spend and Engagement Analysis
 Tools: SQL, CTEs, window functions, customer segmentation
